@@ -5,5 +5,5 @@
 - Continues Integration (CI) using Travis-CI
 - Scalable Image upload to AWS-S3 via AWS-SDK.  
 
-> Make sure to add your API_KEYS to config/ci.key  
+> Make sure to add your API_KEYS to config/ci.js  
 > And also install all the dependancy using `npm install` in the client and server directory
